@@ -1,0 +1,7 @@
+current_year = input("What year is it?\n")
+print("                 . : .")
+print("                '. : .'")
+print("HAPPY NEW YEAR . '.:.' .")
+print(f"  !!! {current_year} !!! . .':'. .")
+print("                .' : '.")
+print("                 ' : '")
